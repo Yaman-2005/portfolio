@@ -263,7 +263,7 @@ const projectsData = [
     title: 'DataCT',
     description: 'A stats website that displays and graphs various statistics of VALORANT players, loaded from a custom SQLite database.',
     tags: ['Python', 'Flask', 'matplotlib'],
-    image: 'public/datact.png', // Placeholder path
+    image: '/datact.png', // Placeholder path
     link: 'https://github.com/Yaman-2005/DataCT',
     deploymentUrl: 'https://prlfive.pythonanywhere.com/', // Example URL
     accentColor: 'cyan'
@@ -272,7 +272,7 @@ const projectsData = [
     title: 'GreenBook',
     description: 'A mobile password manager application that stores encrypted passwords in a MongoDB database and supports user authentication.',
     tags: ['Dart', 'Flutter', 'MongoDB'],
-    image: 'public/greenbook.jpg', // Placeholder path
+    image: '/greenbook.jpg', // Placeholder path
     link: 'https://github.com/Yaman-2005/Green-book',
     deploymentUrl: null, // No deployment link for this one
     accentColor: 'emerald'
@@ -281,7 +281,7 @@ const projectsData = [
     title: 'E-Waste Portal',
     description: 'A smart auction-based management portal for tracking, updating and managing E-Waste, with AI tools for large corporations.',
     tags: ['React', 'Node.js', 'Express', 'MongoDB'],
-    image: 'public/e-waste.png', // Placeholder path
+    image: '/e-waste.png', // Placeholder path
     link: 'https://github.com/deepakmani2027/hackathon-project',
     deploymentUrl: 'https://e-waste-management-portal.vercel.app/', // Example URL
     accentColor: 'violet'
